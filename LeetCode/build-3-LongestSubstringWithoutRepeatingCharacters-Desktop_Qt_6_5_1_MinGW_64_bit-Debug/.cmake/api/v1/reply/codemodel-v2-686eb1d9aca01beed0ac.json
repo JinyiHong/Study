@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-40eb55889c79f5427efa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3-LongestSubstringWithoutRepeatingCharacters",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "3-LongestSubstringWithoutRepeatingCharacters::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-LongestSubstringWithoutRepeatingCharacters-Debug-bb7ea7d9331f4fb23852.json",
+					"name" : "3-LongestSubstringWithoutRepeatingCharacters",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Study/LeetCode/build-3-LongestSubstringWithoutRepeatingCharacters-Desktop_Qt_6_5_1_MinGW_64_bit-Debug",
+		"source" : "D:/Study/LeetCode/3-LongestSubstringWithoutRepeatingCharacters"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
